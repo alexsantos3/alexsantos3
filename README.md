@@ -58,8 +58,6 @@ Busco evoluir continuamente como desenvolvedor, transformando ideias em produtos
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
 </p>
 
@@ -78,7 +76,6 @@ Busco evoluir continuamente como desenvolvedor, transformando ideias em produtos
 ## Atualmente
 
 - Aprofundando conhecimentos em **React, Angular, TypeScript, JavaScript e Node.js**
-- Evoluindo em **Java, Spring Boot e desenvolvimento de APIs RESTful**
 - Desenvolvendo projetos com foco em **responsividade, organização de código e experiência do usuário**
 - Buscando crescer profissionalmente no ecossistema de **desenvolvimento web**
 
